@@ -23,7 +23,7 @@ Projekt obejmuje:
 
 > W repozytorium umieszczono wyłącznie zanonimizowane lub przykładowe dane (fragmenty), bez danych rzeczywistych.
 
-## 🛠 Technologie
+##  Technologie
 
 - Python (pandas, numpy, seaborn, matplotlib, xgboost, scikit-learn)
 - Google Colab
